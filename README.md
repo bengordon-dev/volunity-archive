@@ -2,7 +2,6 @@
 
 # Project summary
 
----
 
 Volunity was a proposed application with the ultimate goal of connecting volunteers to nonprofit organizations. 
 
@@ -10,7 +9,6 @@ Development on the project began during the winter of 2020-01, and mostly took p
 
 # People and roles
 
----
 
 - **Mick Tobin**, Head designer/strategist
 - **Benjamin Gordon**, Head developer
@@ -18,13 +16,11 @@ Development on the project began during the winter of 2020-01, and mostly took p
 
 # Technologies used
 
----
 
 **React Native** was used to create a mobile app frontend.
 
 **React, Express, NodeJS,** and **Firebase** were used to create (something of a) full-stack website. 
 
----
 
 # Disclaimers
 
