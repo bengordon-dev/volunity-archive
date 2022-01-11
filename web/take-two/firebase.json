@@ -1,0 +1,28 @@
+{
+  "functions": {
+    "source": "functions",
+    "runtime": "nodejs14"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/opportunities",
+        "function": "app"
+      },
+      {
+        "source": "/orgUser",
+        "function": "app"
+      }
+    ]
+  }
+}
