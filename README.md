@@ -25,8 +25,9 @@ Development on the project began during the winter of 2020-01, and mostly took p
 # Disclaimers
 
 This project was, first and foremost, a learning experience. A lot of the code in this repository, to put it bluntly, sucks. Some of it is sloppily written, some of it does not work, and some of it never would have worked. 
-There is, however, great *value* in the code written for this project; it represents the outcome of countless hours of coding, struggling, and learning. Even if the project itself may have failed, the time I (Ben Gordon) spent on it did not amount to nothing.
-All of the React Native work I have done since, especially in [HackTX 2021,](https://github.com/consilia-proj/consilia-mobile-app) could not have happened without Volunity preceding it.
+
+There is, however, great *value* in the code written for this project; it represents the outcome of countless hours of coding, struggling, and learning. Even if the project itself may have failed, the time we spent on it did not amount to nothing.
+All of the React Native work I (Ben Gordon) have done since, especially in [HackTX 2021,](https://github.com/consilia-proj/consilia-mobile-app) could not have happened without Volunity preceding it.
 
 The name Volunity was, to my knowledge, thought up by Mick Tobin independently. Any past usage by other parties is purely coincidental.
 
