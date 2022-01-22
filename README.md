@@ -3,9 +3,9 @@
 # Project summary
 
 
-Volunity was a proposed application with the ultimate goal of connecting volunteers to nonprofit organizations. 
+Volunity was a proposed mobile/web application with the ultimate goal of connecting volunteers to nonprofit organizations. 
 
-Development on the project began during the winter of 2020-01, and mostly took place in the summer of 2021 (right before we all went off to college.) The project was ultimately scrapped due to the business of college and feasibility concerns, but it nonetheless proved to be a fantastic learning experience.
+Development on the project began during the winter of 2020-01, and mostly took place in the summer of 2021 (right before we all went off to college.) It was ultimately scrapped due to the business of college and feasibility concerns, but it nonetheless proved to be a fantastic learning experience.
 
 # People and roles
 
